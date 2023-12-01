@@ -1,0 +1,47 @@
+{
+  "name": "1948_Avatars #8",
+  "description": "The first modern Art project on the blockchain created from Art",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "dna": "fed205b468ada33b4340d92b5862510c783aa02b",
+  "edition": 8,
+  "date": 1688519262948,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "An_Impression"
+    },
+    {
+      "trait_type": "Head_And_Neck_Front",
+      "value": "Doll"
+    },
+    {
+      "trait_type": "Face_Front",
+      "value": "Pious_Lady"
+    },
+    {
+      "trait_type": "Bust",
+      "value": "Gypsy_Queen"
+    },
+    {
+      "trait_type": "Hair_Front",
+      "value": "Experience"
+    },
+    {
+      "trait_type": "Head_Accessory",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Second_Necklace",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Baby",
+      "value": "Blank"
+    }
+  ],
+  "compiler": "PRINSEPS"
+}
